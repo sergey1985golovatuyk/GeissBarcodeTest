@@ -1,0 +1,1 @@
+﻿SELECT * FROM Barcode_RWT WHERE CarType ='GSR'
